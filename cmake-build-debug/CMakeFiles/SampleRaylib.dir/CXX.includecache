@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diego/Programming/C++/SampleRaylib/src/main.cpp
+iostream
+-
+raylib.h
+/home/diego/Programming/C++/SampleRaylib/src/raylib.h
+sstream
+-
+linux/input.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SampleRaylib.dir/src/main.cpp.o  -o SampleRaylib -lraylib 
