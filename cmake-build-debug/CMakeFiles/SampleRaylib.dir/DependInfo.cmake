@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/diego/Programming/C++/SampleRaylib/src/main.cpp" "/home/diego/Programming/C++/SampleRaylib/cmake-build-debug/CMakeFiles/SampleRaylib.dir/src/main.cpp.o"
+  "/home/diego/Programming/C++/SampleRaylibCpp/src/main.cpp" "/home/diego/Programming/C++/SampleRaylibCpp/cmake-build-debug/CMakeFiles/SampleRaylib.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
